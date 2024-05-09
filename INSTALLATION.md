@@ -3,7 +3,7 @@
 ## Hardware required
 
 - Raspberry Pi 2 Model B or better
-- Pican2, or any CAN-hardware device
+- Pican2, Waveshare RS485 CAN HAT, or any CAN-hardware device
 
 ## Software
 
